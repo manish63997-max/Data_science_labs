@@ -1,0 +1,5 @@
+| Application_No | Student_Name | Age | Entrance_Exam_Score | Board_Percentage | Branch_Preference | Reservation_Category | Family_Income | Admission_Status |
+| -------------- | ------------ | --- | ------------------- | ---------------- | ----------------- | -------------------- | ------------- | ---------------- |
+| 1001           | Rahul        | 18  | 91                  | 88               | CSE               | GM                   | 500000        | Admitted         |
+| 1002           | Sneha        | 19  | 84                  | 90               | ISE               | OBC                  | 400000        | Waiting          |
+| 1003           | Arjun        | 17  | 96                  | 95               | AIML              | SC                   | 250000        | Admitted         |
