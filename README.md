@@ -276,7 +276,7 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn
 
 # 👨‍💻 Author
 
-**Madan R**
+**Manish Kumar Chauhan**
 
 BE Information Science  
 Garden City University
